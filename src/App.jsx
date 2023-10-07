@@ -1,9 +1,9 @@
 import { useState } from 'react'
-import './App.css'
+import GameScreen from './components/Screens/GameScreen'
 
 function App() {
   return (
-    <></>
+    <GameScreen />
   );
 }
 
