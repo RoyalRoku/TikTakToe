@@ -3,6 +3,10 @@
 ## V1.0
 A basic tikTakToe created in react.
 
+The app working model looks like this:
+
+![Working Model](workingModel.png)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
